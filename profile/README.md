@@ -19,6 +19,7 @@ Our *main research lines* include:
 | Hate speech (MTL) | [mtl-hatespeech-spanish](https://github.com/NLP-UMUTeam/Spanish-MTLHateCorpus) | Spanish MTL-HateCorpus 2023: dataset and code for multi-task hate speech detection in Spanish. |
 | Political ideology | [FGCS-political-ideology-2021](https://github.com/NLP-UMUTeam/FGCS-political-ideology-2021) | Code for predicting political ideology from Spanish politicians' tweets. |
 | Humor & offense | [hahackathon-2021](https://github.com/NLP-UMUTeam/hahackathon-2021) | SemEval-2021 Task 7: humor and offense detection. |
+| Misogyny | [FGCS-spanish-micorpus-2020](https://github.com/NLP-UMUTeam/Spanish-MisoCorpus-2020) | Spanish MisoCorpus 2020: a balanced corpus of Spanish tweets related to misogyny. |
 
 > 👉 For a full list of repositories, see the [Repositories](https://github.com/NLP-UMUTeam?tab=repositories) tab.
 
