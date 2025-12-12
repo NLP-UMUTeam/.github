@@ -23,6 +23,10 @@ Our *main research lines* include:
 
 > 👉 For a full list of repositories, see the [Repositories](https://github.com/NLP-UMUTeam?tab=repositories) tab.
 
+### 🤗 Hugging Face Hub
+Our models and datasets are also available on the Hugging Face Hub:  
+https://huggingface.co/UMUTeam
+
 ## 👥 Team & contact
 
 - 🐦 Twitter/X: [@nlp_umuteam](https://twitter.com/nlp_umuteam)
