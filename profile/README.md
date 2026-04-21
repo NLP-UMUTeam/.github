@@ -30,6 +30,7 @@ https://huggingface.co/UMUTeam
 ## 👥 Team & contact
 
 - 🐦 Twitter/X: [@nlp_umuteam](https://twitter.com/nlp_umuteam)
+- Lined-in: (https://www.linkedin.com/company/90860913/)
 - 📧 Contact: valencia@um.es
 
 
