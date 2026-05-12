@@ -16,7 +16,7 @@ Our *main research lines* include:
 | Area | Repository | What it contains |
 |------|-----------|------------------|
 | speech-emotion | [link](https://github.com/NLP-UMUTeam/umuteam-speech-emotion) | Speech Emotion Recognition tool. |
-| umutextstats   | [link](https://github.com/orgs/NLP-UMUTeam/repositories) | Tool for linguistic analysis in Spanish. |
+| umutextstats   | [link](https://github.com/orgs/NLP-UMUTeam/umutextstats-python) | Tool for linguistic analysis in Spanish. |
 
 ## 📌 Featured repositories
 
