@@ -11,6 +11,13 @@ Our *main research lines* include:
 - Misinformation, satire and political communication
 - Clinical NLP and domain-specific resources for Spanish
 
+## 📌 Featured tools
+
+| Area | Repository | What it contains |
+|------|-----------|------------------|
+| speech-emotion | [link](https://github.com/NLP-UMUTeam/umuteam-speech-emotion) | Speech Emotion Recognition tool. |
+| umutextstats   | [link](https://github.com/orgs/NLP-UMUTeam/repositories) | Tool for linguistic analysis in Spanish. |
+
 ## 📌 Featured repositories
 
 | Area | Repository | What it contains |
